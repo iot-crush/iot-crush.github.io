@@ -1,4 +1,4 @@
-# iot-crush.github.io
-Organization Pages of **IoT Crush** Project
+# www.iot-crush.com at iot-crush.github.io
+Portal of **IoT Crush** Project
 
-Testing the Automatic Page Generator
+(Testing the Automatic Page Generator)
